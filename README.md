@@ -1,2 +1,4 @@
 # hello-world
-From the tutoria;
+From the tutorial
+
+This is from the GitHub tutorial
